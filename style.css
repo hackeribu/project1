@@ -1,0 +1,17 @@
+#center{
+    text-align: center;
+    font-weight: bold;
+}
+.tab{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 95px;
+   
+}
+h1{
+    text-align: center
+}
+td:hover{
+    background-color: blue;
+    color: white;
+}

@@ -1,0 +1,116 @@
+.top{
+	width: 30%;
+	text-align: center;
+	color:black;
+	border-radius: 20px;
+	background-color:white;
+	font-weight:bold;
+	margin-left:220px;
+	font-family:montserrat;
+	cursor:pointer;
+
+
+}
+.top:hover{
+	
+	
+	background: none;
+
+}
+.top::before{
+	content: "";
+	background: aqua;
+	z-index: -1;
+	transition: 0.8s;
+	color: white;
+}
+table{
+	width: 00%;
+
+}
+#body1{
+	background-color: blue;
+	padding: 0px;
+	margin: 0px;
+	height: 90px;
+	border-radius: 30px;
+}
+img{
+	width: 50px;
+	padding: 10px;
+	margin-top: 10px;
+	filter: blur(1px);
+
+}
+body{
+	background-color: white;
+	filter: blur(0px);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.top1{
+	width: 20%;
+	margin-left: 30px;
+}
+p{
+	padding: 120px;
+	color: black;
+	margin-left: 100px;
+	font-weight: bold;
+	font-size: 30px;
+}
+span{
+	color: blue;
+	font-size: 40px;
+}
+.up{
+font-size: 20px;
+padding: -20px;
+}
+.login{
+	border-radius: 40px;
+	margin-left: 30px;
+	width: 80px;
+	cursor: pointer;
+	background-color: white;
+	font-weight: bold;
+	font-size: large
+	
+}
+.login:hover{
+	background-color: blue;
+	color: white;
+}
+.register{
+	font-weight: bold;
+	font-size: large;
+}
+.register:hover{
+	background-color:blue;
+	color: white;
+}
+.account{
+	font-size: 20px;
+	text-decoration: none;
+	color: white;
+}
+a{
+text-decoration: none;
+color: black;
+}
+#train{
+	margin-top: 600px;
+	height: 360px;
+}
+a:hover{
+	
+}
+.register{
+	border-radius: 40px;
+	margin-left: 30px;
+	width: 180px;
+	cursor: pointer;
+	background-color: whitesmoke;
+	
+	border: 2px solid black;
+}
